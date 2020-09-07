@@ -131,11 +131,11 @@ You will need a ``pattoo_agent_modbustcpd.yaml`` configuration file in the ``PAT
    $
 
 General Operation
-^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~
 Use these commands for general operation of the daemon.
 
 Starting
-~~~~~~~~
+^^^^^^^^
 Start the daemon using this command.
 
 .. code-block:: bash
@@ -143,7 +143,7 @@ Start the daemon using this command.
   $ bin/pattoo_agent_modbustcpd.py --start
 
 Stopping
-~~~~~~~~
+^^^^^^^^
 Stop the daemon using this command.
 
 .. code-block:: bash
@@ -152,7 +152,7 @@ Stop the daemon using this command.
 
 
 Restarting
-~~~~~~~~~~
+^^^^^^^^^^
 Restart the daemon using this command.
 
 .. code-block:: bash
